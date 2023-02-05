@@ -17,3 +17,6 @@
 ## Additional Comments
 
 DoNotPay showcases the potential for artificial intelligence and machine learning to be applied in new and innovative ways to solve real-world problems. It's amazing to think about the impact such technology can have on the legal industry, and the fact that it is accessible to people in need of legal assistance makes it even more impressive. It's exciting to see the intersection of computer science and law, and I'm eager to see what other advancements in this field will emerge in the future.
+
+## Added Comments (Pranav Kanchi – PK2296)
+DoNotPay's antics in this case have brought both positive and negative coverage to the field. DoNotPay's solution of AI lawyering could have significant social impact – bringing equity to a field often wrought with injustice. The classic example of the overworked public defender covering hundreds of cases versus the well funded prosecutors, encuffing harsher punishments on the already economically downtroden. It would be landmark for them to engage in a real trial and come out successful. However, the twitter *stunt* the founder pulled was effectively taunting this kind of response from legislators. I'm still hopeful for the future of this technology, but this was surely a setback for the timeline. 
